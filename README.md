@@ -1,5 +1,5 @@
 # Sound Meters 
-this apps the project for library
+the project for library
 
 Image Example :  <br/>
 <br/>Main Menu<br/>
